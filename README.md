@@ -20,3 +20,6 @@ This system automates the recruitment process by scoring and ranking resumes aga
 - **Recruiter Efficiency:** Reduces manual screening time by 70%.
 - **Consistency:** Provides an objective, data-driven score for every candidate.
 - **Skill-Gap Insights:** Helps candidates understand what they need to learn to be job-ready.
+
+## 📊 System Output
+![Candidate Ranking](screening_results.png)
